@@ -9,4 +9,6 @@
 ## LoadOnDemand: 1
 
 originalwow.lua
+pvp.lua
+raids.lua
 localization.lua
