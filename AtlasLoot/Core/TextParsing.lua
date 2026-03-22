@@ -1221,15 +1221,58 @@ function AtlasLoot_FixText(text)
         text = gsub(text, "#t10mark#", "|TInterface\\Icons\\ability_paladin_shieldofthetemplar:0|t");
     	text = gsub(text, "#valentineday#", "|TInterface\\Icons\\inv_valentinescard01:0|t");
     	text = gsub(text, "#valentineday2#", "|TInterface\\Icons\\inv_jewelry_necklace_43:0|t");
+		
+		-- Custom Epoch Item Aliases
+    	text = gsub(text, "#clotharmorcomp#", function()
+			local icon = GetItemIcon(90537);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        text = gsub(text, "#metalarmorcomp#", function()
+			local icon = GetItemIcon(90538);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        text = gsub(text, "#trinketarmorcomp#", function()
+			local icon = GetItemIcon(90539);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        text = gsub(text, "#complicatedarmorcomp#", function()
+			local icon = GetItemIcon(90540);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        text = gsub(text, "#magicalarmorcomp#", function()
+			local icon = GetItemIcon(90541);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        text = gsub(text, "#gillijim#", function()
+			local icon = GetItemIcon(29024);
+			if icon then return "|T"..icon..":0|t" else return "" end
+		end);
+
+        -- Item Icon replacement: #i12345#
+        text = gsub(text, "#i(%d+)#", function(id)
+            local icon = GetItemIcon(tonumber(id));
+            if icon then
+                return "|T"..icon..":0|t";
+            else
+                return "";
+            end
+        end);
     end
 
     englishFaction, _ = UnitFactionGroup("player")
     if englishFaction == "Horde" then
         text = gsub(text, "#faction#", "|TInterface\\AddOns\\AtlasLoot\\Images\\Horde:14:14:0:-1|t");
+        text = gsub(text, "#honor#", "|TInterface\\PVPFrame\\PVP-Currency-Horde:14:14:0:-1|t");
         text = gsub(text, "#factionoutlandPvP#", "|TInterface\\AddOns\\AtlasLoot\\Images\\Horde:0|t");
         text = gsub(text, "#markthrallmarhhold#", "|TInterface\\Icons\\INV_Misc_Token_Thrallmar:0|t");
     else
         text = gsub(text, "#faction#", "|TInterface\\AddOns\\AtlasLoot\\Images\\Alliance:16:16:0:-2|t");
+        text = gsub(text, "#honor#", "|TInterface\\PVPFrame\\PVP-Currency-Alliance:14:14:0:-1|t");
         text = gsub(text, "#factionoutlandPvP#", "|TInterface\\AddOns\\AtlasLoot\\Images\\Alliance:0|t");
         text = gsub(text, "#markthrallmarhhold#", "|TInterface\\Icons\\INV_Misc_Token_HonorHold:0|t");
     end
