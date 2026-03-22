@@ -28,6 +28,10 @@ if AL then
 	AL["Priority:"] = true;
 	AL["Click boss name to view loot."] = true;
 	AL["Various Locations"] = true;
+	AL["Cloaks"] = true;
+	AL["Rings"] = true;
+	AL["Neck"] = true;
+	AL["Trinkets"] = true;
 	AL["This is a loot browser only.  To view maps as well, install either Atlas or Alphamap."] = true;
 	AL["Toggle AL Panel"] = true;
 	AL["Back"] = true;
@@ -117,6 +121,7 @@ if AL then
 	AL["Load Modules"] = true;
 	AL["Options"] = true;
 	AL["PvP Rewards"] = true;
+	AL["Raids"] = true;
 	AL["QuickLook"] = true;
 	AL["World Events"] = true;
 
