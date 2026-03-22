@@ -85,27 +85,28 @@ AtlasLoot_DewDropDown = {
 			[23] = {
 				{ BabbleZone["Zul'Farrak"], "ZulFarrak", "Submenu" },
 			},
-			[24] = {
-				{ BabbleEpoch["Raids:"], "Onyxia_1", "Table" },
-			},
-			[25] = {
-				{ BabbleZone["Onyxia's Lair"], "Onyxia_1", "Table" },
-			},
 		},
 	},
 	[2] = {
-		{ AL["Crafting"], "CRAFTINGMENU", "Table" },
+		[AL["Raids"]] = {
+			[1] = {
+				{ BabbleZone["Onyxia's Lair"], "OnyxiasLair", "Submenu" },
+			},
+		},
 	},
 	[3] = {
-		{ AL["Sets/Collections"], "SETMENU", "Table" },
+		{ AL["Crafting"], "CRAFTINGMENU", "Table" },
 	},
 	[4] = {
-		{ AL["PvP Rewards"], "PVPMENU", "Table" },
+		{ AL["Sets/Collections"], "SETMENU", "Table" },
 	},
 	[5] = {
-		{ AL["Reputation Factions"], "REPMENU", "Table" },
+		{ AL["PvP Rewards"], "PVPMENU", "Table" },
 	},
 	[6] = {
+		{ AL["Reputation Factions"], "REPMENU", "Table" },
+	},
+	[7] = {
 		{ AL["World Events"], "WORLDEVENTMENU", "Table" },
 	},
 };
@@ -175,6 +176,12 @@ AtlasLoot_DewDropDown_SubTables = {
 		{ "", "LBRSFelguard" },
 		{ "", "LBRSTrash" },
 		{ "", "VWOWWeapons1" },
+	},
+	["OnyxiasLair"] = {
+		{ "", "OnyxiaOrtorg" },
+		{ "", "OnyxiaAtressian" },
+		{ "", "OnyxiaBoss" },
+		{ "", "OnyxiaTrash" },
 	},
 	["UpperBlackrock"] = {
 		{ "", "UBRSEmberseer" },
