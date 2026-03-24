@@ -92,6 +92,9 @@ AtlasLoot_DewDropDown = {
 			[1] = {
 				{ BabbleZone["Onyxia's Lair"], "OnyxiasLair", "Submenu" },
 			},
+			[2] = {
+				{ BabbleZone["Molten Core"], "MoltenCore", "Submenu" },
+			},
 		},
 	},
 	[3] = {
@@ -182,6 +185,20 @@ AtlasLoot_DewDropDown_SubTables = {
 		{ "", "OnyxiaAtressian" },
 		{ "", "OnyxiaBoss" },
 		{ "", "OnyxiaTrash" },
+	},
+	["MoltenCore"] = {
+		{ "", "MCLucifron" },
+		{ "", "MCMagmadar" },
+		{ "", "MCGehennas" },
+		{ "", "MCGarr" },
+		{ "", "MCShazzrah" },
+		{ "", "MCGeddon" },
+		{ "", "MCGolemagg" },
+		{ "", "MCSulfuron" },
+		{ "", "MCMajordomo" },
+		{ "", "MCRagnaros" },
+		{ "", "MCRANDOMBOSSDROPPS" },
+		{ "", "MCTrashMobs" },
 	},
 	["UpperBlackrock"] = {
 		{ "", "UBRSEmberseer" },
