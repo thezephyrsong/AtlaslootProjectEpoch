@@ -1285,56 +1285,56 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 
 	--- Trinkets ---
 	AtlasLoot_Data["EpochpvpS1ConquestTrinkets"] = {
-		{ 1, 90605, "", "=q3=Rival's Insignia of the Alliance", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{ 2, 90606, "", "=q3=Rival's Insignia of the Horde", "=ds=", "3000 #honor# 3 #wsg# 1 #trinketarmorcomp#", ""};
-		{ 3, 90607, "", "=q3=Rival's Insignia of the Adaption", "=ds=", "3000 #honor# 3 #wsg# 1 #trinketarmorcomp#", ""};
-		{ 4, 90608, "", "=q3=Rival's Insignia of Relentlessness", "=ds=", "3000 #honor# 3 #wsg# 1 #trinketarmorcomp#", ""};
-		{ 5, 90609, "", "=q3=Rival's Emblem of Tenacity", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{ 6, 90610, "", "=q3=Rival's Emblem of Vigor", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{ 7, 90611, "", "=q3=Rival's Emblem of Ferocity", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{ 8, 90612, "", "=q3=Rival's Emblem of Magick", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{ 9, 90613, "", "=q3=Rival's Emblem of Cogitation", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{10, 90614, "", "=q3=Rival's Emblem of Betterment", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{11, 90615, "", "=q3=Rival's Emblem of Dominance", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{12, 90616, "", "=q3=Rival's Emblem of Alacrity", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{13, 90617, "", "=q3=Rival's Emblem of Power", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{14, 90618, "", "=q3=Rival's Emblem of Upturn", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
-		{15, 90619, "", "=q3=Rival's Emblem of Renewal", "=ds=", "10000 #honor# 15 #gillijim# 1 #trinketarmorcomp#", ""};
+		{ 1, 90605, "", "=q3=Rival's Insignia of the Alliance", "=ds=", "10 #arena# 7 #wsg# 2 #trinketarmorcomp#", ""};
+		{ 2, 90606, "", "=q3=Rival's Insignia of the Horde", "=ds=", "10 #arena# 7 #wsg# 2 #trinketarmorcomp#", ""};
+		{ 3, 90607, "", "=q3=Rival's Insignia of the Adaption", "=ds=", "10 #arena# 7 #wsg# 2 #trinketarmorcomp#", ""};
+		{ 4, 90608, "", "=q3=Rival's Insignia of Relentlessness", "=ds=", "10 #arena# 7 #wsg# 2 #trinketarmorcomp#", ""};
+		{ 5, 90609, "", "=q3=Rival's Emblem of Tenacity", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{ 6, 90610, "", "=q3=Rival's Emblem of Vigor", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{ 7, 90611, "", "=q3=Rival's Emblem of Ferocity", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{ 8, 90612, "", "=q3=Rival's Emblem of Magick", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{ 9, 90613, "", "=q3=Rival's Emblem of Cogitation", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{10, 90614, "", "=q3=Rival's Emblem of Betterment", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{11, 90615, "", "=q3=Rival's Emblem of Dominance", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{12, 90616, "", "=q3=Rival's Emblem of Alacrity", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{13, 90617, "", "=q3=Rival's Emblem of Power", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{14, 90618, "", "=q3=Rival's Emblem of Upturn", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
+		{15, 90619, "", "=q3=Rival's Emblem of Renewal", "=ds=", "50 #arena# 7 #gillijim# 2 #trinketarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestMisc";
 	};
 
 	--- Cloaks ---
 	AtlasLoot_Data["EpochpvpS1ConquestCloaks"] = {
-		{1, 90558, "", "=q3=Rival's Cloak of Meditation", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{2, 90559, "", "=q3=Rival's Cloak of Survival", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{3, 90560, "", "=q3=Rival's Cloak of Magic Accuracy", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{4, 90561, "", "=q3=Rival's Cloak of Magic Cruelty", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{5, 90562, "", "=q3=Rival's Cloak of Magic Potency", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{6, 90563, "", "=q3=Rival's Cloak of Physical Accuracy", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{7, 90564, "", "=q3=Rival's Cloak of Physical Cruelty", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
-		{8, 90565, "", "=q3=Rival's Cloak of Physical Potency", "=ds=", "7500 #honor# 3 #gillijim# 1 #clotharmorcomp#", ""};
+		{1, 90558, "", "=q3=Rival's Cloak of Meditation", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{2, 90559, "", "=q3=Rival's Cloak of Survival", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{3, 90560, "", "=q3=Rival's Cloak of Magic Accuracy", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{4, 90561, "", "=q3=Rival's Cloak of Magic Cruelty", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{5, 90562, "", "=q3=Rival's Cloak of Magic Potency", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{6, 90563, "", "=q3=Rival's Cloak of Physical Accuracy", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{7, 90564, "", "=q3=Rival's Cloak of Physical Cruelty", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
+		{8, 90565, "", "=q3=Rival's Cloak of Physical Potency", "=ds=", "75 #arena# 7 #gillijim# 2 #clotharmorcomp#", ""};
 		Back = "EpochpvpS1ConquestMisc";
 	};
 
 	--- Rings ---
 	AtlasLoot_Data["EpochpvpS1ConquestRings"] = {
-		{1, 90574, "", "=q3=Rival's Band of Meditation", "=ds=", "9000 #honor# 5 #wsg# 1 #metalarmorcomp#", ""};
-		{2, 90575, "", "=q3=Rival's Band of Survival", "=ds=", "9000 #honor# 5 #wsg# 1 #metalarmorcomp#", ""};
-		{3, 90576, "", "=q3=Rival's Band of Magic Accuracy", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{4, 90577, "", "=q3=Rival's Band of Magic Cruelty", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{5, 90578, "", "=q3=Rival's Band of Magic Potency", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{6, 90579, "", "=q3=Rival's Band of Physical Accuracy", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{7, 90580, "", "=q3=Rival's Band of Physical Crit", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{8, 90581, "", "=q3=Rival's Band of Physical Potency", "=ds=", "9000 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
+		{1, 90574, "", "=q3=Rival's Band of Meditation", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{2, 90575, "", "=q3=Rival's Band of Survival", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{3, 90576, "", "=q3=Rival's Band of Magic Accuracy", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{4, 90577, "", "=q3=Rival's Band of Magic Cruelty", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{5, 90578, "", "=q3=Rival's Band of Magic Potency", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{6, 90579, "", "=q3=Rival's Band of Physical Accuracy", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{7, 90580, "", "=q3=Rival's Band of Physical Crit", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
+		{8, 90581, "", "=q3=Rival's Band of Physical Potency", "=ds=", "40 #arena# 10 #wsg# 2 #metalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestMisc";
 	};
 
 	--- Necklaces ---
 	AtlasLoot_Data["EpochpvpS1ConquestNecks"] = {
-		{1, 90586, "", "=q3=Rival's Amulet of Strength", "=ds=", "7500 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{2, 90587, "", "=q3=Rival's Amulet of Agility", "=ds=", "7500 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{3, 90588, "", "=q3=Rival's Amulet of Spellpower", "=ds=", "7500 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
-		{4, 90589, "", "=q3=Rival's Amulet of Meditation", "=ds=", "7500 #honor# 3 #gillijim# 1 #metalarmorcomp#", ""};
+		{1, 90586, "", "=q3=Rival's Amulet of Strength", "=ds=", "75 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
+		{2, 90587, "", "=q3=Rival's Amulet of Agility", "=ds=", "75 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
+		{3, 90588, "", "=q3=Rival's Amulet of Spellpower", "=ds=", "75 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
+		{4, 90589, "", "=q3=Rival's Amulet of Meditation", "=ds=", "75 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestMisc";
 	};
 
