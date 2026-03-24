@@ -1411,47 +1411,47 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 
 
 	AtlasLoot_Data["EpochpvpS1ConquestDruidFeral"] = {
-		{1, 90794, "", "=q4=Rival's Animalistic Cowl", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{2, 90795, "", "=q4=Rival's Animalistic Spaulders", "=ds=", "75 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{3, 90796, "", "=q4=Rival's Animalistic Vest", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{4, 90797, "", "=q4=Rival's Animalistic Gloves", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
-		{5, 90798, "", "=q4=Rival's Animalistic Kilt", "=ds=", "100 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{6, 90799, "", "=q4=Rival's Animalistic Boots", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
+		{1, 90794, "", "=q4=Rival's Animalistic Cowl", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{2, 90795, "", "=q4=Rival's Animalistic Spaulders", "=ds=", "75 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{3, 90796, "", "=q4=Rival's Animalistic Vest", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{4, 90797, "", "=q4=Rival's Animalistic Gloves", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
+		{5, 90798, "", "=q4=Rival's Animalistic Kilt", "=ds=", "100 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{6, 90799, "", "=q4=Rival's Animalistic Boots", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 		
-		{9, 90800, "", "=q4=Rival's Belt of Assault", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{10, 90801, "", "=q4=Rival's Wrists of Assault", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
+		{9, 90800, "", "=q4=Rival's Belt of Assault", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{10, 90801, "", "=q4=Rival's Wrists of Assault", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 
 	AtlasLoot_Data["EpochpvpS1ConquestDruidBalance"] = {
-		{1, 90802, "", "=q4=Rival's Astral Cowl", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{2, 90803, "", "=q4=Rival's Astral Spaulders", "=ds=", "75 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{3, 90804, "", "=q4=Rival's Astral Vest", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{4, 90805, "", "=q4=Rival's Astral Gloves", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
-		{5, 90806, "", "=q4=Rival's Astral Kilt", "=ds=", "100 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{6, 90807, "", "=q4=Rival's Astral Boots", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
+		{1, 90802, "", "=q4=Rival's Astral Cowl", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{2, 90803, "", "=q4=Rival's Astral Spaulders", "=ds=", "75 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{3, 90804, "", "=q4=Rival's Astral Vest", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{4, 90805, "", "=q4=Rival's Astral Gloves", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
+		{5, 90806, "", "=q4=Rival's Astral Kilt", "=ds=", "100 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{6, 90807, "", "=q4=Rival's Astral Boots", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{9, 90808, "", "=q4=Rival's Belt of Spellcasting", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{10,90809, "", "=q4=Rival's Wrists of Spellcasting", "=ds=", "75 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
+		{9, 90808, "", "=q4=Rival's Belt of Spellcasting", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{10,90809, "", "=q4=Rival's Wrists of Spellcasting", "=ds=", "75 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 
 	AtlasLoot_Data["EpochpvpS1ConquestDruidResto"] = {
-		{1, 90810, "", "=q4=Rival's Barking Cowl", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{2, 90811, "", "=q4=Rival's Barking Spaulders", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
-		{3, 90812, "", "=q4=Rival's Barking Vest", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{4, 90813, "", "=q4=Rival's Barking Gloves", "=ds=", "75 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{5, 90814, "", "=q4=Rival's Barking Kilt", "=ds=", "100 #arena# 15 #wsg# 1 #leatherarmorcomp#", ""};
-		{6, 90815, "", "=q4=Rival's Barking Boots", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
+		{1, 90810, "", "=q4=Rival's Barking Cowl", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{2, 90811, "", "=q4=Rival's Barking Spaulders", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
+		{3, 90812, "", "=q4=Rival's Barking Vest", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{4, 90813, "", "=q4=Rival's Barking Gloves", "=ds=", "75 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{5, 90814, "", "=q4=Rival's Barking Kilt", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
+		{6, 90815, "", "=q4=Rival's Barking Boots", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{9, 90816, "", "=q4=Rival's Belt of Restoration", "=ds=", "100 #arena# 10 #wsg# 1 #leatherarmorcomp#", ""};
-		{10,90817, "", "=q4=Rival's Wrists of Restoration", "=ds=", "50 #arena# 7 #gillijim# 1 #leatherarmorcomp#", ""};
+		{9, 90816, "", "=q4=Rival's Belt of Restoration", "=ds=", "100 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
+		{10,90817, "", "=q4=Rival's Wrists of Restoration", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 		
