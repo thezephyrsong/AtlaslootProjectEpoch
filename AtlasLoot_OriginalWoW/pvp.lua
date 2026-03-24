@@ -1421,7 +1421,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90800, "", "=q4=Rival's Belt of Assault", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
 		{10, 90801, "", "=q4=Rival's Wrists of Assault", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 
@@ -1436,7 +1436,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90808, "", "=q4=Rival's Belt of Spellcasting", "=ds=", "100 #arena# 15 #wsg# 2 #leatherarmorcomp#", ""};
 		{10,90809, "", "=q4=Rival's Wrists of Spellcasting", "=ds=", "75 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 
@@ -1451,7 +1451,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90816, "", "=q4=Rival's Belt of Restoration", "=ds=", "100 #arena# 10 #wsg# 2 #leatherarmorcomp#", ""};
 		{10,90817, "", "=q4=Rival's Wrists of Restoration", "=ds=", "50 #arena# 7 #gillijim# 2 #leatherarmorcomp#", ""};
 
-		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90949, "", "=q4=Rival's Idol", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestDruid";
 	};
 		
