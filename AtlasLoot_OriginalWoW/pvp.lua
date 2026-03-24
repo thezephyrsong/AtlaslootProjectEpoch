@@ -1502,7 +1502,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90872, "", "=q4=Rival's Cord of Spellcasting", "=ds=", "100 #arena# 10 #wsg# 2 #mailarmorcomp#", ""};
 		{10,90873, "", "=q4=Rival's Bindings of Spellcasting", "=ds=", "50 #arena# 7 #gillijim# 2 #mailarmorcomp#", ""};
 		
-		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestShaman";
 	};
 
@@ -1517,7 +1517,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90880, "", "=q4=Rival's Cord of Preservation", "=ds=", "100 #arena# 15 #wsg# 2 #mailarmorcomp#", ""};
 		{10,90881, "", "=q4=Rival's Bindings of Preservation", "=ds=", "50 #arena# 7 #gillijim# 2 #mailarmorcomp#", ""};
 		
-		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestShaman";
 	};
 
@@ -1532,7 +1532,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{9, 90864, "", "=q4=Rival's Cord of Assault", "=ds=", "100 #arena# 15 #wsg# 2 #mailarmorcomp#", ""};
 		{10,90865, "", "=q4=Rival's Bindings of Assault", "=ds=", "50 #arena# 7 #gillijim# 2 #mailarmorcomp#", ""};
 		
-		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{16, 90951, "", "=q4=Rival's Totem", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1ConquestShaman";
 	};
 		
@@ -1560,7 +1560,7 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{25, 90928, "", "=q4=Rival's Girdle of Preservation", "=ds=", "50 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
 		{26, 90929, "", "=q4=Rival's Bracers of Preservation", "=ds=", "50 #arena# 7 #gillijim# 2 #metalarmorcomp#", ""};
 
-		{13, 90950, "", "=q4=Rival's Libram", "=ds=", "150 #honor# 15 #gillijim# 2 #magicalarmorcomp#", ""};
+		{13, 90950, "", "=q4=Rival's Libram", "=ds=", "150 #arena# 15 #gillijim# 2 #magicalarmorcomp#", ""};
 		Back = "EpochpvpS1Conquest";
 	};
 
