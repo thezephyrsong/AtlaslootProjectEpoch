@@ -265,17 +265,14 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{ 27, 61814, "", "=q4=Onyxia Scale Breastplate", "", "", ""};
 		{ 28, 61817, "", "=q3=Pattern: Onyxia Scale Hood", "", "", ""};
 		{ 29, 61816, "", "=q4=Onyxia Scale Hood", "", "", ""};
-		{ 30, 61819, "", "=q3=Pattern: Onyxia Scale Leggings", "", "", ""};
 		Next = "Abandoned4";
 		Prev = "Abandoned2";
 		Back = "SETMENU";
 	};
 
 	AtlasLoot_Data["Abandoned4"] = {
-		{ 1, 61818, "", "=q4=Onyxia Scale Leggings", "", "", ""};
-		{ 3, 61820, "", "=q4=Onyxia Scale Shield", "", "", ""};
-		{ 4, 61823, "", "=q3=Pattern: Red Dragooonscale Shoulders", "", "", ""};
-		{ 5, 61822, "", "=q3=Red Dragooonscale Shoulders", "", "", ""};
+		{ 4, 61823, "", "=q3=Pattern: Red Dragonscale Shoulders", "", "", ""};
+		{ 5, 61822, "", "=q3=Red Dragonscale Shoulders", "", "", ""};
 		{ 8, 61827, "", "=q3=Pattern: Red Dragonscale Boots", "", "", ""};
 		{ 9, 61826, "", "=q4=Red Dragonscale Boots", "", "", ""};
 		{ 14, 61836, "", "=q4=Totem of Draconic Might", "", "", ""};
