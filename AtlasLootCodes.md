@@ -98,6 +98,7 @@ These are the codes used in the `originalwow.lua` loot tables with the following
 |`#s14#` | Trinket |
 |`#s15#` | Held in Off-Hand |
 |`#s16#` | Relic |
+|`#sr#`  | Skill Required |
 
 ## Weapons
 
@@ -114,8 +115,8 @@ These are the codes used in the `originalwow.lua` loot tables with the following
 | `#w7#` | Polearm | 
 | `#w8#` | Shield | 
 | `#w9#` | Staff | 
-| `#w10#` | Sword | 
-| `#w11#` | Thrown |
+|`#w10#` | Sword | 
+|`#w11#` | Thrown |
 |`#w12#` | Wand |
 |`#w13#` | Fist Weapon |
 |`#w14#` | Idol |
