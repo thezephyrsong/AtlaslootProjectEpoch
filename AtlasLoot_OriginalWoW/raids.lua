@@ -119,20 +119,24 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 		{ 7, 61831, "", "=q4=Scorched Arcanist Belt", "=ds=#s10#, #a1#", "", ""};
 		{ 8, 61744, "", "=q4=Scorched Arcanist Bindings", "=ds=#s8#, #a1#", "", ""};
 
-		{ 10, 61834, "", "=q4=Scorched Felheart Belt", "=ds=#s10#, #a1#", "", ""};
-		{ 11, 61747, "", "=q4=Scorched Felheart Bracers", "=ds=#s8#, #a1#", "", ""};
+		{10, 61834, "", "=q4=Scorched Felheart Belt", "=ds=#s10#, #a1#", "", ""};
+		{11, 61747, "", "=q4=Scorched Felheart Bracers", "=ds=#s8#, #a1#", "", ""};
 
-		{ 16, 61830, "", "=q4=Sapphiron Drape", "=ds=#s4#", "", ""};
-		{ 17, 61801, "", "=q4=Cloak of Forewarning", "=ds=#s4#", "", ""};
+		{13, 62148, "", "=q3=Formula: Enchant Weapon - Dragon's Wisdom", "=ds=#sr# 300"};
 
-		{ 19, 61838, "", "=q4=Woven Shadowthread Chemise", "=ds=#s5#, #a1#", "", ""};
-		{ 20, 61803, "", "=q4=Cuffs of Spite", "=ds=#s8#, #a1#", "", ""};
-		{ 21, 61798, "", "=q4=Boots of Contempt", "=ds=#s12#, #a1#", "", ""};
+		{16, 61830, "", "=q4=Sapphiron Drape", "=ds=#s4#", "", ""};
+		{17, 61801, "", "=q4=Cloak of Forewarning", "=ds=#s4#", "", ""};
+
+		{19, 61838, "", "=q4=Woven Shadowthread Chemise", "=ds=#s5#, #a1#", "", ""};
+		{20, 61803, "", "=q4=Cuffs of Spite", "=ds=#s8#, #a1#", "", ""};
+		{21, 61798, "", "=q4=Boots of Contempt", "=ds=#s12#, #a1#", "", ""};
 		
-		{ 22, 61809, "", "=q4=Faceted Beryl Palm Stone", "=ds=#s14#", "" };
-		{ 23, 61793, "", "=q4=Ancient Cornerstone Grimoire", "=ds=#s15#", "", ""};
+		{22, 61809, "", "=q4=Faceted Beryl Palm Stone", "=ds=#s14#", "" };
+		{23, 61793, "", "=q4=Ancient Cornerstone Grimoire", "=ds=#s15#", "", ""};
 		
-		{ 25, 61837, "", "=q4=Vis'kag the Bloodletter", "=ds=#h1# #w10#", "", "" };
+		{25, 61837, "", "=q4=Vis'kag the Bloodletter", "=ds=#h1# #w10#", "", "" };
+
+		
 		Prev = "OnyxiaOrtorg";
 		Next = "OnyxiaBoss";
 	};
