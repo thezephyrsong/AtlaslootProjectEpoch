@@ -761,6 +761,7 @@ end
 	AtlasLoot_TableNames["TailoringArmorOld7"] = { TAILORING..": "..AL["Cloth Armor"], "AtlasLootCrafting" };
 	AtlasLoot_TableNames["TailoringBags1"] = { TAILORING..": "..AL["Bags"], "AtlasLootCrafting" };
 	AtlasLoot_TableNames["TailoringMisc1"] = { TAILORING..": "..AL["Miscellaneous"], "AtlasLootCrafting" };
+	AtlasLoot_TableNames["TailoringItemEnhancements"] = { TAILORING..": "..AL["Miscellaneous"], "AtlasLootCrafting" };
 	AtlasLoot_TableNames["TailoringShirts1"] = { TAILORING..": "..AL["Shirts"], "AtlasLootCrafting" };
   -- Cooking
 	AtlasLoot_TableNames["Cooking1"] = { COOKING, "AtlasLootCrafting" };
@@ -806,7 +807,7 @@ end
 	AtlasLoot_TableNames["PvP60Accessories2_H"] = { BabbleEpoch["PvP Vendor"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["PVPWeapons_A"] = { AL["PvP Weapons (Level 60)"], "AtlasLootOriginalWoW" };
 	AtlasLoot_TableNames["PVPWeapons_H"] = { AL["PvP Weapons (Level 60)"], "AtlasLootOriginalWoW" };
-
+	AtlasLoot_TableNames["PvPCrafting"] = { AL["PvP Crafting Materials"], "AtlasLootCrafting"}
 -------------
 --- Other ---
 -------------

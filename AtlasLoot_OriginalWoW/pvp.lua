@@ -51,24 +51,24 @@ local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 
 		{ 6, 0, "INV_Box_01", "=q6=PvP Crafting Mats", ""};
 		{ 7, 90542, "", "=q2=Pattern: Leather Armor Components", "=ds=", "6000 #honor#", ""};
-		{ 8, 90543, "", "=q2=Pattern: Mail Armor Components", "=ds=", "6000 #honor#", ""};
+		{ 8, 90543, "", "=q2=Pattern: Mail Armor Components", "=ds=", "6000 #honor#", ""}; 
 		{ 9, 90544, "", "=q2=Pattern: Cloth Armor Components", "=ds=", "6000 #honor#", ""};
-		{10, 90545, "", "=q2=Plans: Metal Armor Components", "=ds=", "6000 #honor#", ""};
-		{11, 90546, "", "=q2=Recipe: Trinket Components", "=ds=", "6000 #honor#", ""};
-		{12, 90547, "", "=q2=Schematic: Complicated Components", "=ds=", "6000 #honor#", ""};
+		{10, 90545, "", "=q2=Plans: Metal Armor Components", "=ds=", "6000 #honor#", ""}; 
+		{11, 90546, "", "=q2=Recipe: Trinket Components", "=ds=", "6000 #honor#", ""}; 
+		{12, 90547, "", "=q2=Schematic: Complicated Components", "=ds=", "6000 #honor#", ""}; 
 		{13, 90548, "", "=q2=Formula: Magical Components", "=ds=", "6000 #honor#", ""};
 
 		{16, 18839, "", "=q1=Combat Healing Potion", "=ds=#e2#", "10 #silver# 25 #honor#", ""};
 		{17, 18841, "", "=q1=Combat Mana Potion", "=ds=#e2#", "10 #silver# 25 #honor#", ""};
 		{19, 90534, "", "=q1=Crate of Supplies", "=ds=", "5000 #honor#", ""};
 
-		{22,90535, "", "=q1=Leather Armor Components", "=ds=", ""};
-		{23,90536, "", "=q1=Mail Armor Components", "=ds=", ""};
-		{24,90537, "", "=q1=Cloth Armor Components", "=ds=", ""};
-		{25,90538, "", "=q1=Metal Armor Components", "=ds=", ""};
-		{26,90539, "", "=q1=Trinket Components", "=ds=", ""};
-		{27,90540, "", "=q1=Complicated Components", "=ds=", ""};
-		{28,90541, "", "=q1=Magical Armor Components", "=ds=", ""};
+		{22, 90535, "", "=q1=Leather Armor Components", "=ds=", ""};
+		{23, 90536, "", "=q1=Mail Armor Components", "=ds=", ""};
+		{24, 90537, "", "=q1=Cloth Armor Components", "=ds=", ""};
+		{25, 90538, "", "=q1=Metal Armor Components", "=ds=", ""};
+		{26, 90539, "", "=q1=Trinket Components", "=ds=", ""};
+		{27, 90540, "", "=q1=Complicated Components", "=ds=", ""};
+		{28, 90541, "", "=q1=Magical Armor Components", "=ds=", ""};
 		Back = "PVPMENU";
 	};
 

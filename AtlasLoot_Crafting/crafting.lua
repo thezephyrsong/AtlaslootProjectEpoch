@@ -199,33 +199,34 @@ AtlasLoot_Data["AlchemyTransmute1"] = {
 };
 
 AtlasLoot_Data["AlchemyMisc1"] = {
-	{ 1, "s84403", "60156", "=q1=Elixir of Iron Diplomacy", "=ds=#sr# 300"};
-	{ 2, "s85169", "60157", "=q1=Elixir of Valorous Diplomacy", "=ds=#sr# 300"};
-	{ 3, "s86699", "62074", "=q1=Elixir of Virtuous Diplomacy", "=ds=#sr# 275"};
-	{ 4, "s85613", "60159", "=q1=Elixir of Woodland Diplomacy", "=q6=Reagent unavailable >Bugged<"};
-	{ 5, "s85161", "60160", "=q1=Greater Catseye Elixir", "=ds=#sr# 275"};
-	{ 6, "s86694", "62070", "=q1=Elixir of Luring", "=ds=#sr# 255"};
-	{ 7, "s11478", "9233", "=q1=Elixir of Detect Demon", "=ds=#sr# 250"};
-	{ 8, "s11468", "9197", "=q1=Elixir of Dream Vision", "=ds=#sr# 240"};
-	{ 9, "s11460", "9154", "=q1=Elixir of Detect Undead", "=ds=#sr# 230"};
-	{ 10, "s22808", "18294", "=q1=Elixir of Greater Water Breathing", "=ds=#sr# 215"};
-	{ 11, "s11451", "8956", "=q1=Oil of Immolation", "=ds=#sr# 205"};
-	{ 12, "s12609", "10592", "=q1=Catseye Elixir", "=ds=#sr# 200"};
-	{ 13, "s86404", "62012", "=q1=Pirate's Parley", "=ds=#sr# 200"};
-	{ 14, "s3453", "3828", "=q1=Elixir of Detect Lesser Invisibility", "=ds=#sr# 195"};
-	{ 15, "s7179", "5996", "=q1=Elixir of Water Breathing", "=ds=#sr# 90"};
-	{ 16, "s17551", "13423", "=q1=Stonescale Oil", "=ds=#sr# 250"};
-	{ 17, "s11473", "9210", "=q1=Ghost Dye", "=ds=#sr# 245"};
-	{ 18, "s11456", "9061", "=q1=Goblin Rocket Fuel", "=ds=#sr# 210"};
-	{ 19, "s7837", "6371", "=q1=Fire Oil", "=ds=#sr# 130"};
-	{ 20, "s7836", "6370", "=q1=Blackmouth Oil", "=ds=#sr# 80"};
-	{ 22, "s3454", "3829", "=q1=Frost Oil", "=ds=#sr# 200"};
-	{ 23, "s3449", "3824", "=q1=Shadow Oil", "=ds=#sr# 165"};
-	{ 25, "s86706", "62084", "=q3=Materia Prima", "=ds=#sr# 300"};
-	{ 26, "s86702", "62080", "=q3=Enchanted Philosopher Stone", "=ds=#sr# 250"};
-	{ 27, "s86701", "62078", "=q3=Inlaid Philosopher Stone", "=ds=#sr# 200"};
-	{ 28, "s86700", "62076", "=q2=Polished Philosopher Stone", "=ds=#sr# 150"};
-	{ 29, "s86691", "62067", "=q2=Crude Philosopher Stone", "=ds=#sr# 100"};
+	{ 1, "s150174", "90539", "=q1=Alchemy: Trinket Components,", "=ds=#p1#, #sr# 300"};
+	{ 2, "s84403", "60156", "=q1=Elixir of Iron Diplomacy", "=ds=#sr# 300"};
+	{ 3, "s85169", "60157", "=q1=Elixir of Valorous Diplomacy", "=ds=#sr# 300"};
+	{ 4, "s86699", "62074", "=q1=Elixir of Virtuous Diplomacy", "=ds=#sr# 275"};
+	{ 5, "s85613", "60159", "=q1=Elixir of Woodland Diplomacy", "=q6=Reagent unavailable >Bugged<"};
+	{ 6, "s85161", "60160", "=q1=Greater Catseye Elixir", "=ds=#sr# 275"};
+	{ 7, "s86694", "62070", "=q1=Elixir of Luring", "=ds=#sr# 255"};
+	{ 8, "s11478", "9233", "=q1=Elixir of Detect Demon", "=ds=#sr# 250"};
+	{ 9, "s11468", "9197", "=q1=Elixir of Dream Vision", "=ds=#sr# 240"};
+	{10, "s11460", "9154", "=q1=Elixir of Detect Undead", "=ds=#sr# 230"};
+	{11, "s22808", "18294", "=q1=Elixir of Greater Water Breathing", "=ds=#sr# 215"};
+	{12, "s11451", "8956", "=q1=Oil of Immolation", "=ds=#sr# 205"};
+	{13, "s12609", "10592", "=q1=Catseye Elixir", "=ds=#sr# 200"};
+	{14, "s86404", "62012", "=q1=Pirate's Parley", "=ds=#sr# 200"};
+	{15, "s3453", "3828", "=q1=Elixir of Detect Lesser Invisibility", "=ds=#sr# 195"};
+	{16, "s7179", "5996", "=q1=Elixir of Water Breathing", "=ds=#sr# 90"};
+	{17, "s17551", "13423", "=q1=Stonescale Oil", "=ds=#sr# 250"};
+	{18, "s11473", "9210", "=q1=Ghost Dye", "=ds=#sr# 245"};
+	{19, "s11456", "9061", "=q1=Goblin Rocket Fuel", "=ds=#sr# 210"};
+	{20, "s7837", "6371", "=q1=Fire Oil", "=ds=#sr# 130"};
+	{22, "s7836", "6370", "=q1=Blackmouth Oil", "=ds=#sr# 80"};
+	{23, "s3454", "3829", "=q1=Frost Oil", "=ds=#sr# 200"};
+	{25, "s3449", "3824", "=q1=Shadow Oil", "=ds=#sr# 165"};
+	{26, "s86706", "62084", "=q3=Materia Prima", "=ds=#sr# 300"};
+	{27, "s86702", "62080", "=q3=Enchanted Philosopher Stone", "=ds=#sr# 250"};
+	{28, "s86701", "62078", "=q3=Inlaid Philosopher Stone", "=ds=#sr# 200"};
+	{29, "s86700", "62076", "=q2=Polished Philosopher Stone", "=ds=#sr# 150"};
+	{30, "s86691", "62067", "=q2=Crude Philosopher Stone", "=ds=#sr# 100"};
 	Prev = "AlchemyTransmute1";
 	Back = "ALCHEMYMENU";
 };
@@ -555,21 +556,22 @@ AtlasLoot_Data["SmithingEnhancement1"] = {
 };
 
 AtlasLoot_Data["SmithingMisc1"] = {
-	{ 1, "s19669", "15872", "=q2=Arcanite Skeleton Key", "=ds=#sr# 275"};
-	{ 2, "s19668", "15871", "=q2=Truesilver Skeleton Key", "=ds=#sr# 200"};
-	{ 3, "s19667", "15870", "=q2=Golden Skeleton Key", "=ds=#sr# 150"};
-	{ 4, "s19666", "15869", "=q2=Silver Skeleton Key", "=ds=#sr# 100"};
-	{ 7, "s20201", "16206", "=q1=Arcanite Rod", "=ds=#sr# 275"};
-	{ 8, "s14380", "11144", "=q1=Truesilver Rod", "=ds=#sr# 200"};
-	{ 9, "s14379", "11128", "=q1=Golden Rod", "=ds=#sr# 150"};
-	{ 10, "s7818", "6338", "=q1=Silver Rod", "=ds=#sr# 100"};
-	{ 16, "s16639", "12644", "=q1=Dense Grinding Stone", "=ds=#sr# 250"};
-	{ 17, "s9920", "7966", "=q1=Solid Grinding Stone", "=ds=#sr# 200"};
-	{ 18, "s3337", "3486", "=q1=Heavy Grinding Stone", "=ds=#sr# 125"};
-	{ 19, "s3326", "3478", "=q1=Coarse Grinding Stone", "=ds=#sr# 75"};
-	{ 20, "s3320", "3470", "=q1=Rough Grinding Stone", "=ds=#sr# 25"};
-	{ 22, "s11454", "9060", "=q1=Inlaid Mithril Cylinder", "=ds=#sr# 200"};
-	{ 23, "s8768", "7071", "=q1=Iron Buckle", "=ds=#sr# 150"};
+	{ 1, "s150173", "90538", "=q1=Blacksmithing: Metal Armor Components,", "=ds=#p2#,#sr# 300"};
+	{ 3, "s19669", "15872", "=q2=Arcanite Skeleton Key", "=ds=#sr# 275"};
+	{ 4, "s19668", "15871", "=q2=Truesilver Skeleton Key", "=ds=#sr# 200"};
+	{ 5, "s19667", "15870", "=q2=Golden Skeleton Key", "=ds=#sr# 150"};
+	{ 6, "s19666", "15869", "=q2=Silver Skeleton Key", "=ds=#sr# 100"};
+	{ 8, "s20201", "16206", "=q1=Arcanite Rod", "=ds=#sr# 275"};
+	{ 9, "s14380", "11144", "=q1=Truesilver Rod", "=ds=#sr# 200"};
+	{10, "s14379", "11128", "=q1=Golden Rod", "=ds=#sr# 150"};
+	{11, "s7818", "6338", "=q1=Silver Rod", "=ds=#sr# 100"};
+	{16, "s16639", "12644", "=q1=Dense Grinding Stone", "=ds=#sr# 250"};
+	{17, "s9920", "7966", "=q1=Solid Grinding Stone", "=ds=#sr# 200"};
+	{18, "s3337", "3486", "=q1=Heavy Grinding Stone", "=ds=#sr# 125"};
+	{29, "s3326", "3478", "=q1=Coarse Grinding Stone", "=ds=#sr# 75"};
+	{20, "s3320", "3470", "=q1=Rough Grinding Stone", "=ds=#sr# 25"};
+	{22, "s11454", "9060", "=q1=Inlaid Mithril Cylinder", "=ds=#sr# 200"};
+	{23, "s8768", "7071", "=q1=Iron Buckle", "=ds=#sr# 150"};
 	Back = "SMITHINGMENU";
 };
 
@@ -984,30 +986,35 @@ AtlasLoot_Data["EnchantingShield1"] = {
 };
 
 AtlasLoot_Data["EnchantingMisc1"] = {
-	{ 1, "s86784", "62139", "=q4=Orb of Calamity", "=ds=#sr# 215"};
-	{ 2, "s15596", "11811", "=q3=Smoking Heart of the Mountain", "=ds=#sr# 265"};
-	{ 3, "s86785", "62140", "=q3=Spellweaver", "=ds=#sr# 300"};
-	{ 4, "s86791", "62145", "=q3=Stanchion of Dazzling Light", "=ds=#sr# 300"};
-	{ 5, "s86789", "62143", "=q3=Staff of the Moon", "=ds=#sr# 295"};
-	{ 6, "s84408", "60183", "=q3=Staff of the Cursed Seer", "=ds=#sr# 250"};
-	{ 7, "s86786", "62142", "=q3=Staff of Affinity", "=ds=#sr# 140"};
-	{ 9, "s25126", "20746", "=q1=Lesser Wizard Oil", "=ds=#sr# 200"};
-	{ 10, "s25125", "20745", "=q1=Minor Mana Oil", "=ds=#sr# 150"};
-	{ 11, "s25124", "20744", "=q1=Minor Wizard Oil", "=ds=#sr# 45"};
-	{ 13, "s85246", "60768", "=q3=Felstone", "=ds=#sr# 300"};
-	{ 14, "s85256", "60787", "=q1=Scroll of Recall: Teles'aran", "=ds=#sr# 250"};
-	{ 16, "s87287", "62137", "=q3=Eternal Wand", "=ds=#sr# 295"};
-	{ 17, "s86771", "62138", "=q2=Lesser Nether Wand", "=ds=#sr# 245"};
-	{ 18, "s14810", "11290", "=q2=Greater Mystic Wand", "=ds=#sr# 175"};
-	{ 19, "s14809", "11289", "=q2=Lesser Mystic Wand", "=ds=#sr# 155"};
-	{ 20, "s14807", "11288", "=q2=Greater Magic Wand", "=ds=#sr# 70"};
-	{ 21, "s14293", "11287", "=q2=Lesser Magic Wand", "=ds=#sr# 10"};
-	{ 23, "s86386", "11084", "=q3=Propagate: Small Glimmering Shard", "=ds=#sr# 125"};
-	{ 24, "s86387", "11139", "=q3=Propagate: Small Glowing Shard", "=ds=#sr# 185"};
-	{ 25, "s86388", "11178", "=q3=Propagate: Small Radiant Shard", "=ds=#sr# 230"};
-	{ 26, "s86389", "14344", "=q3=Propagate: Small Brilliant Shard", "=ds=#sr# 270"};
-	{ 27, "s17180", "12655", "=q1=Enchanted Thorium", "=ds=#sr# 250"};
-	{ 28, "s17181", "12810", "=q1=Enchanted Leather", "=ds=#sr# 250"};
+	{ 1, "s150176", "90541", "=q1=Enchanting: Magical Components,", "=ds=#p4#, #sr# 300"};
+	{ 2, "s86784", "62139", "=q4=Orb of Calamity", "=ds=#sr# 215"};
+	{ 3, "s15596", "11811", "=q3=Smoking Heart of the Mountain", "=ds=#sr# 265"};
+	{ 4, "s86785", "62140", "=q3=Spellweaver", "=ds=#sr# 300"};
+	{ 5, "s86791", "62145", "=q3=Stanchion of Dazzling Light", "=ds=#sr# 300"};
+	{ 6, "s86789", "62143", "=q3=Staff of the Moon", "=ds=#sr# 295"};
+	{ 7, "s84408", "60183", "=q3=Staff of the Cursed Seer", "=ds=#sr# 250"};
+	
+	{ 9, "s86786", "62142", "=q3=Staff of Affinity", "=ds=#sr# 140"};
+	{10, "s25126", "20746", "=q1=Lesser Wizard Oil", "=ds=#sr# 200"};
+	{11, "s25125", "20745", "=q1=Minor Mana Oil", "=ds=#sr# 150"};
+
+	{13, "s25124", "20744", "=q1=Minor Wizard Oil", "=ds=#sr# 45"};
+	{14, "s85246", "60768", "=q3=Felstone", "=ds=#sr# 300"};
+	{15, "s85256", "60787", "=q1=Scroll of Recall: Teles'aran", "=ds=#sr# 250"};
+	
+	{16, "s87287", "62137", "=q3=Eternal Wand", "=ds=#sr# 295"};
+	{17, "s86771", "62138", "=q2=Lesser Nether Wand", "=ds=#sr# 245"};
+	{18, "s14810", "11290", "=q2=Greater Mystic Wand", "=ds=#sr# 175"};
+	{19, "s14809", "11289", "=q2=Lesser Mystic Wand", "=ds=#sr# 155"};
+	{20, "s14807", "11288", "=q2=Greater Magic Wand", "=ds=#sr# 70"};
+	{21, "s14293", "11287", "=q2=Lesser Magic Wand", "=ds=#sr# 10"};
+	
+	{23, "s86386", "11084", "=q3=Propagate: Small Glimmering Shard", "=ds=#sr# 125"};
+	{24, "s86387", "11139", "=q3=Propagate: Small Glowing Shard", "=ds=#sr# 185"};
+	{25, "s86388", "11178", "=q3=Propagate: Small Radiant Shard", "=ds=#sr# 230"};
+	{26, "s86389", "14344", "=q3=Propagate: Small Brilliant Shard", "=ds=#sr# 270"};
+	{27, "s17180", "12655", "=q1=Enchanted Thorium", "=ds=#sr# 250"};
+	{28, "s17181", "12810", "=q1=Enchanted Leather", "=ds=#sr# 250"};
 	Next = "EnchantingMisc2";
 	Prev = "EnchantingShield1";
 	Back = "ENCHANTINGMENU";
@@ -1117,35 +1124,37 @@ AtlasLoot_Data["EngineeringItemEnhancements1"] = {
 };
 
 AtlasLoot_Data["EngineeringMisc1"] = {
-	{ 1, "s19830", "16022", "=q3=Arcanite Dragonling", "=ds=#sr# 300"};
-	{ 2, "s12624", "10576", "=q2=Mithril Mechanical Dragonling", "=ds=#sr# 250"};
-	{ 3, "s3969", "4396", "=q1=Mechanical Dragonling", "=ds=#sr# 200"};
-	{ 4, "s22704", "18232", "=q1=Field Repair Bot 74A", "=ds=#sr# 300"};
-	{ 5, "s19814", "16023", "=q1=Masterwork Target Dummy", "=ds=#sr# 275"};
-	{ 6, "s3965", "4392", "=q1=Advanced Target Dummy", "=ds=#sr# 185"};
-	{ 7, "s3963", "4391", "=q1=Compact Harvest Reaper Kit", "=ds=#sr# 175"};
-	{ 8, "s3932", "4366", "=q1=Target Dummy", "=ds=#sr# 85"};
-	{ 9, "s30573", "23832", "=q1=Gnomish Tonk Controller", "=ds=#sr# 295"};
-	{ 10, "s30561", "23831", "=q1=Goblin Tonk Controller", "=ds=#sr# 295"};
-	{ 11, "s19793", "15996", "=q1=Lifelike Mechanical Toad", "=ds=#sr# 265"};
-	{ 12, "s26011", "21277", "=q1=Tranquil Mechanical Yeti", "=ds=#sr# 250"};
-	{ 13, "s15628", "11825", "=q1=Pet Bombling", "=ds=#sr# 205"};
-	{ 14, "s15633", "11826", "=q1=Lil' Smoky", "=ds=#sr# 205"};
-	{ 15, "s3928", "4401", "=q1=Mechanical Squirrel", "=ds=#sr# 75"};
-	{ 16, "s85792", "61907", "=q3=Dark Iron Fishing Pole", "=ds=#sr# 300"};
-	{ 18, "s86380", "62000", "=q2=Thorium Toolbox", "=ds=#sr# 275"};
-	{ 19, "s87286", "40893", "=q1=Bladed Pickaxe", "=ds=#sr# 270"};
-	{ 20, "s19567", "15846", "=q1=Salt Shaker", "=ds=#sr# 250"};
-	{ 21, "s86815", "62167", "=q2=Sturdy Tackle Box", "=ds=#sr# 225"};
-	{ 22, "s86813", "62164", "=q2=Revantusk Disguise", "=ds=#sr# 200"};
-	{ 23, "s15255", "11590", "=q1=Mechanical Repair Kit", "=ds=#sr# 200"};
-	{ 24, "s8243", "4852", "=q1=Flash Bomb", "=ds=#sr# 185"};
-	{ 25, "s3959", "4388", "=q1=Discombobulator Ray", "=ds=#sr# 160"};
-	{ 26, "s3957", "4386", "=q1=Ice Deflector", "=ds=#sr# 155"};
-	{ 27, "s9271", "6533", "=q1=Aquadynamic Fish Attractor", "=ds=#sr# 150"};
-	{ 28, "s6458", "5507", "=q1=Ornate Spyglass", "=ds=#sr# 135"};
-	{ 29, "s3944", "4376", "=q1=Flame Deflector", "=ds=#sr# 125"};
-	{ 30, "s8334", "6712", "=q1=Practice Lock", "=ds=#sr# 100"};
+	{ 1, "s150175", "90540", "=q1=Engineering: Complicated Components,", "=ds=#p5#, #sr# 300"};
+	{ 2, "s19830", "16022", "=q3=Arcanite Dragonling", "=ds=#sr# 300"};
+	{ 3, "s12624", "10576", "=q2=Mithril Mechanical Dragonling", "=ds=#sr# 250"};
+	{ 4, "s3969", "4396", "=q1=Mechanical Dragonling", "=ds=#sr# 200"};
+	{ 5, "s22704", "18232", "=q1=Field Repair Bot 74A", "=ds=#sr# 300"};
+	{ 6, "s19814", "16023", "=q1=Masterwork Target Dummy", "=ds=#sr# 275"};
+	{ 7, "s3965", "4392", "=q1=Advanced Target Dummy", "=ds=#sr# 185"};
+	{ 8, "s3963", "4391", "=q1=Compact Harvest Reaper Kit", "=ds=#sr# 175"};
+	{ 9, "s3932", "4366", "=q1=Target Dummy", "=ds=#sr# 85"};
+	{10 , "s30573", "23832", "=q1=Gnomish Tonk Controller", "=ds=#sr# 295"};
+	{11, "s30561", "23831", "=q1=Goblin Tonk Controller", "=ds=#sr# 295"};
+	{12, "s19793", "15996", "=q1=Lifelike Mechanical Toad", "=ds=#sr# 265"};
+	{13, "s26011", "21277", "=q1=Tranquil Mechanical Yeti", "=ds=#sr# 250"};
+	{14, "s15628", "11825", "=q1=Pet Bombling", "=ds=#sr# 205"};
+	{15, "s15633", "11826", "=q1=Lil' Smoky", "=ds=#sr# 205"};
+
+	{16, "s85792", "61907", "=q3=Dark Iron Fishing Pole", "=ds=#sr# 300"};
+	{17, "s86380", "62000", "=q2=Thorium Toolbox", "=ds=#sr# 275"};
+	{18, "s87286", "40893", "=q1=Bladed Pickaxe", "=ds=#sr# 270"};
+	{19, "s19567", "15846", "=q1=Salt Shaker", "=ds=#sr# 250"};
+	{20, "s86815", "62167", "=q2=Sturdy Tackle Box", "=ds=#sr# 225"};
+	{21, "s86813", "62164", "=q2=Revantusk Disguise", "=ds=#sr# 200"};
+	{22, "s15255", "11590", "=q1=Mechanical Repair Kit", "=ds=#sr# 200"};
+	{23, "s8243", "4852", "=q1=Flash Bomb", "=ds=#sr# 185"};
+	{24, "s3959", "4388", "=q1=Discombobulator Ray", "=ds=#sr# 160"};
+	{25, "s3957", "4386", "=q1=Ice Deflector", "=ds=#sr# 155"};
+	{26, "s9271", "6533", "=q1=Aquadynamic Fish Attractor", "=ds=#sr# 150"};
+	{27, "s6458", "5507", "=q1=Ornate Spyglass", "=ds=#sr# 135"};
+	{28, "s3944", "4376", "=q1=Flame Deflector", "=ds=#sr# 125"};
+	{29, "s8334", "6712", "=q1=Practice Lock", "=ds=#sr# 100"};
+	{30, "s3928", "4401", "=q1=Mechanical Squirrel", "=ds=#sr# 75"};
 	Next = "EngineeringMisc2";
 	Back = "ENGINEERINGMENU";
 };
@@ -1158,24 +1167,24 @@ AtlasLoot_Data["EngineeringMisc2"] = {
 	{ 6, "s23066", "9318", "=q1=Red Firework", "=ds=#sr# 150"};
 	{ 7, "s23507", "19026", "=q1=Snake Burst Firework", "=ds=#sr# 250"};
 	{ 9, "s85407", "25886", "=q1=Purple Smoke Flare", "=ds=#sr# 300"};
-	{ 10, "s86807", "23771", "=q1=Green Smoke Flare", "=ds=#sr# 275"};
-	{ 11, "s86804", "23770", "=q1=Blue Smoke Flare", "=ds=#sr# 275"};
-	{ 12, "s86381", "23768", "=q1=White Smoke Flare", "=ds=#sr# 270"};
-	{ 14, "s21940", "17716", "=q1=Snowmaster 9000", "=ds=#sr# 190"};
-	{ 16, "s26443", "21570", "=q1=Firework Cluster Launcher", "=ds=#sr# 275"};
-	{ 17, "s26426", "21714", "=q1=Large Blue Rocket Cluster", "=ds=#sr# 275"};
-	{ 18, "s26427", "21716", "=q1=Large Green Rocket Cluster", "=ds=#sr# 275"};
-	{ 19, "s26428", "21718", "=q1=Large Red Rocket Cluster", "=ds=#sr# 275"};
-	{ 20, "s26442", "21569", "=q1=Firework Launcher", "=ds=#sr# 225"};
-	{ 21, "s26423", "21571", "=q1=Blue Rocket Cluster", "=ds=#sr# 225"};
-	{ 22, "s26424", "21574", "=q1=Green Rocket Cluster", "=ds=#sr# 225"};
-	{ 23, "s26425", "21576", "=q1=Red Rocket Cluster", "=ds=#sr# 225"};
-	{ 24, "s26420", "21589", "=q1=Large Blue Rocket", "=ds=#sr# 175"};
-	{ 25, "s26421", "21590", "=q1=Large Green Rocket", "=ds=#sr# 175"};
-	{ 26, "s26422", "21592", "=q1=Large Red Rocket", "=ds=#sr# 175"};
-	{ 27, "s26416", "21558", "=q1=Small Blue Rocket", "=ds=#sr# 125"};
-	{ 28, "s26417", "21559", "=q1=Small Green Rocket", "=ds=#sr# 125"};
-	{ 29, "s26418", "21557", "=q1=Small Red Rocket", "=ds=#sr# 125"};
+	{10, "s86807", "23771", "=q1=Green Smoke Flare", "=ds=#sr# 275"};
+	{11, "s86804", "23770", "=q1=Blue Smoke Flare", "=ds=#sr# 275"};
+	{12, "s86381", "23768", "=q1=White Smoke Flare", "=ds=#sr# 270"};
+	{14, "s21940", "17716", "=q1=Snowmaster 9000", "=ds=#sr# 190"};
+	{16, "s26443", "21570", "=q1=Firework Cluster Launcher", "=ds=#sr# 275"};
+	{17, "s26426", "21714", "=q1=Large Blue Rocket Cluster", "=ds=#sr# 275"};
+	{18, "s26427", "21716", "=q1=Large Green Rocket Cluster", "=ds=#sr# 275"};
+	{19, "s26428", "21718", "=q1=Large Red Rocket Cluster", "=ds=#sr# 275"};
+	{20, "s26442", "21569", "=q1=Firework Launcher", "=ds=#sr# 225"};
+	{21, "s26423", "21571", "=q1=Blue Rocket Cluster", "=ds=#sr# 225"};
+	{22, "s26424", "21574", "=q1=Green Rocket Cluster", "=ds=#sr# 225"};
+	{23, "s26425", "21576", "=q1=Red Rocket Cluster", "=ds=#sr# 225"};
+	{24, "s26420", "21589", "=q1=Large Blue Rocket", "=ds=#sr# 175"};
+	{25, "s26421", "21590", "=q1=Large Green Rocket", "=ds=#sr# 175"};
+	{26, "s26422", "21592", "=q1=Large Red Rocket", "=ds=#sr# 175"};
+	{27, "s26416", "21558", "=q1=Small Blue Rocket", "=ds=#sr# 125"};
+	{28, "s26417", "21559", "=q1=Small Green Rocket", "=ds=#sr# 125"};
+	{29, "s26418", "21557", "=q1=Small Red Rocket", "=ds=#sr# 125"};
 	Prev = "EngineeringMisc1";
 	Back = "ENGINEERINGMENU";
 };
@@ -1596,10 +1605,13 @@ AtlasLoot_Data["LeatherQuiversPouches1"] = {
 };
 
 AtlasLoot_Data["LeatherDrumsBagsMisc1"] = {
-	{ 1, "s85558", "61816", "=q4=Onyxia Scale Hood", "=ds=#sr# 300"};
-	{ 2, "s85033", "60541", "=q3=Dread Pirate's Bicorne", "=ds=#sr# 300"};
-	{ 4, "s86382", "62003", "=q3=Big Bag of Hides", "=ds=#sr# 290"};
-	{ 5, "s86837", "62181", "=q2=Thick Leatherworker's Bag", "=ds=#sr# 225"};
+	{ 1, "s150170", "90535", "=q1=Leatherworking: Leather Armor Components,", "=ds=#p7#,#sr# 300"};
+	{ 2, "s150171", "90536", "=q1=Leatherworking: Mail Armor Components,", "=ds=#p7#,#sr# 300"};
+	
+	{ 4, "s85558", "61816", "=q4=Onyxia Scale Hood", "=ds=#sr# 300"};
+	{ 5, "s85033", "60541", "=q3=Dread Pirate's Bicorne", "=ds=#sr# 300"};
+	{ 7, "s86382", "62003", "=q3=Big Bag of Hides", "=ds=#sr# 290"};
+	{ 8, "s86837", "62181", "=q2=Thick Leatherworker's Bag", "=ds=#sr# 225"};
 	{ 16, "s86865", "62199", "=q2=Rugged Saddle", "=ds=#sr# 275"};
 	{ 17, "s86864", "62198", "=q2=Heavy Saddle", "=ds=#sr# 200"};
 	{ 19, "s23190", "18662", "=q1=Heavy Leather Ball", "=ds=#sr# 150"};
@@ -2066,7 +2078,7 @@ AtlasLoot_Data["TailoringBags1"] = {
 	Back = "TAILORINGMENU";
 };
 
-AtlasLoot_Data["TailoringMisc1"] = {
+AtlasLoot_Data["TailoringItemEnhancements"] = {
 	{ 1, "s86899", "62223", "=q2=Linen Protector's Embroidery", "=ds=#sr# 25"};
 	{ 2, "s86897", "62221", "=q2=Linen Sorcerer's Embroidery", "=ds=#sr# 25"};
 	{ 3, "s86898", "62222", "=q2=Linen Warrior's Embroidery", "=ds=#sr# 25"};
@@ -2084,6 +2096,11 @@ AtlasLoot_Data["TailoringMisc1"] = {
 	{ 26, "s86915", "62231", "=q2=Runecloth Warrior's Embroidery", "=ds=#sr# 250"};
 	Back = "TAILORINGMENU";
 };
+
+AtlasLoot_Data["TailoringMisc1"] = {
+	{ 1, "s150172", "90537", "=q1=Tailoring: Cloth Armor Components,", "=ds=#p8#,#sr# 300"};
+	Back = "TAILORINGMENU";
+}
 
 AtlasLoot_Data["TailoringShirts1"] = {
 	{ 1, "s84411", "60189", "=q2=Blood-Spattered Shirt", "=ds=#sr# 250"};
@@ -2333,5 +2350,20 @@ AtlasLoot_Data["CraftedWeapons1"] = {
 	{ 16, 0, "trade_engineering", "=q6=#p5#", "=q1=#j9#"};
 	{ 17, 18168, "", "=q4=Force Reactive Disk", "=ds=#w8#"};
 	{ 18, 18282, "", "=q4=Core Marksman Rifle", "=ds=#w5#"};
+	Back = "CRAFTINGMENU";
+};
+
+------------------------------
+--- PvP Crafting Materials ---
+------------------------------
+
+AtlasLoot_Data["PvPCrafting"] = {
+	{ 1, "s150170", "90535", "=q1=Leatherworking: Leather Armor Components,", "=ds=#p7#,#sr# 300"};
+	{ 2, "s150171", "90536", "=q1=Leatherworking: Mail Armor Components,", "=ds=#p7#,#sr# 300"};
+	{ 3, "s150172", "90537", "=q1=Tailoring: Cloth Armor Components,", "=ds=#p8#,#sr# 300"};
+	{ 4, "s150173", "90538", "=q1=Blacksmithing: Metal Armor Components,", "=ds=#p2#,#sr# 300"};
+	{ 5, "s150174", "90539", "=q1=Alchemy: Trinket Components,", "=ds=#p1#, #sr# 300"};
+	{ 6, "s150175", "90540", "=q1=Engineering: Complicated Components,", "=ds=#p5#, #sr# 300"};
+	{ 7, "s150176", "90541", "=q1=Enchanting: Magical Components,", "=ds=#p4#, #sr# 300"};
 	Back = "CRAFTINGMENU";
 };

@@ -145,6 +145,7 @@ lib:SetBaseTranslations {
 	Prismscale = "Prismscale",
 	["Probably Abandoned Epoch Loot"] = "Probably Abandoned Epoch Loot",
 	["PvP Vendor/Battle Quartermaster"] = "PvP Vendor/Battle Quartermaster",
+	["PvP Crafting Materials"] = "PvP Crafting Materials",
 	["Questrewards"] = "Questrewards",
 	["Questrewards of Interest"] = "Questrewards of Interest",
 	["Raids:"] = "Raids:",
