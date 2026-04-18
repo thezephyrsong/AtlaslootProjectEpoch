@@ -511,11 +511,15 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 6, 64748, "", "=q4=Pyrite-Studded Chain Epaulets", "=ds=#s3#, #a3#", "", ""};
 
 		{ 8, 64742, "", "=q4=Cloak of Convalescence", "=ds=#s4#", "", ""};
-		
-		{16, 64749, "", "=q4=Seethe", "=ds=#w4#", "", ""};
-		{17, 64747, "", "=q4=Mountain Breaker", "=ds=#w6#", "", ""};
 
-		{19, 65713, "", "=q3=Volchan's Burned-Out Husk", "", "", ""};
+		{10, 90110, "", "=q4=Dark Iron Tankard", "=ds=#s15#", "", ""};
+		
+		{14, 64749, "", "=q4=Seethe", "=ds=#w4#", "", ""};
+		{15, 64747, "", "=q4=Mountain Breaker", "=ds=#w6#", "", ""};
+
+		{16, 90107, "", "=q4=Schematic: Stable Flamecore Engine", "=ds=#p5# (300)", "", ""};
+
+		{18, 65713, "", "=q3=Volchan's Burned-Out Husk", "", "", ""};
 		Back = "WORLDBOSSMENU";
 	};
 
